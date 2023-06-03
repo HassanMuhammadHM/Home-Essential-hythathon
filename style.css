@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.para{
+    text-decoration: none;
+}
+
+
+
+
+
+a p {
+    background-color: #5c2e92;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+p {
+    
+    text-align: center;
+}
+
+img {
+    height: 50px;
+
+
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.num-email {
+
+    font-size: 8px;
+    font-weight: bold;
+    margin: 0px 5px;
+
+
+}
+
+.Stre-reg {
+    float: right;
+    font-size: 8px;
+    font-weight: bold;
+    margin: 0px 5px;
+}
+
+.navh {
+    /* width: 100px; */
+
+}
+
+
+
+.fep{
+ background-color: #5c2e92;
+    color: white;
+margin: 5px;
+
+}
